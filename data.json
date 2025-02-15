@@ -1,0 +1,125 @@
+{
+  "channels": [
+    {
+      "name": "Sky Sports Main Event",
+      "logo": "https://i.ibb.co/Z6Lrfs9X/images-2-9.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=417"
+    },
+    {
+      "name": "Sky Sports Cricket",
+      "logo": "https://i.ibb.co/ZzbHqTWk/images-2-10.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=418"
+    },
+    {
+      "name": "Super Sports GrandStand",
+      "logo": "https://i.ibb.co/GfxvsD3C/images-4.png",
+      "url": "https://allinonereborn.com/test.m3u8?id=16116"
+    },
+    {
+      "name": "SuperSports Blitz",
+      "logo": "https://i.ibb.co/GfxvsD3C/images-4.png",
+      "url": "https://allinonereborn.com/test.m3u8?id=16112"
+    },
+    {
+      "name": "Jio Hotstar",
+      "logo": "https://i.ibb.co/RGNvv3w2/images-2-21.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Amazon Prime",
+      "logo": "https://i.ibb.co/4RQG2ZPc/Amazon-Prime-Video-logo-2024-svg.png",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Tapmad",
+      "logo": "https://i.ibb.co/35ssLY79/i-Ox-QM0-DLCq6wj-DNqkv-V2-Lp-Z4-Gq-Krhi7l74i-O5m-O4nqo7902-Ezy5-DRu8rg-ADQNrpy-DQ.png",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Tofee",
+      "logo": "https://i.ibb.co/B5yKJbCb/images-2-19.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Willow Sports",
+      "logo": "https://i.ibb.co/Txv9bRMz/images-2-22.jpg",
+      "url": "https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8"
+    },
+    {
+      "name": "Willow Cricket",
+      "logo": "https://i.ibb.co/qLs8LrRT/images-2-23.jpg",
+      "url": "http://extraott.com:80/live/3969424152/3723991250/175793.m3u8"
+    },
+    {
+      "name": "Willow Xtra",
+      "logo": "https://i.ibb.co/Txv9bRMz/images-2-22.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=22153"
+    },
+    {
+      "name": "Star Sports Hindi",
+      "logo": "https://i.ibb.co/W4x7d5Vb/images-2-11.jpg",
+      "url": "https://fifabd.site/OPLLXX/play.m3u8?id=167573|Referer=RANAPK"
+    },
+    {
+      "name": "Star Sports 1",
+      "logo": "https://i.ibb.co/VcYrZyRr/images-2-12.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Star Sports Hindi 2",
+      "logo": "https://i.ibb.co/W4x7d5Vb/images-2-11.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Star Sports Tamil",
+      "logo": "https://i.ibb.co/YBqbH4rf/images-2-13.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "DD Sports",
+      "logo": "https://i.ibb.co/Z6Lrfs9X/images-2-9.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "Ptv Sports",
+      "logo": "https://i.ibb.co/Kp6KR59D/images-2-15.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=18294"
+    },
+    {
+      "name": "A Sports",
+      "logo": "https://i.ibb.co/yBmsxLCC/A-Sports-Logo-1.png",
+      "url": "https://allinonereborn.com/test.m3u8?id=20307"
+    },
+    {
+      "name": "Ten Cricket",
+      "logo": "https://i.ibb.co/whGmxK0Z/images-2-16.jpg",
+      "url": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665"
+    },
+    {
+      "name": "ESPN",
+      "logo": "https://i.ibb.co/VpkTkKsb/i.png",
+      "url": "https://allinonereborn.com/test.m3u8?id=14459"
+    },
+   
+    {
+      "name": "Sky Sports NZ 1",
+      "logo": "https://i.ibb.co/S7P0gw5G/images-2-17.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=25128"
+    },
+    {
+      "name": "Sky Sports NZ 2",
+      "logo": "https://i.ibb.co/S7P0gw5G/images-2-17.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=23557"
+    },
+    {
+      "name": "Starz Play",
+      "logo": "https://i.ibb.co/6RxXCJ0k/images-2-18.jpg",
+      "url": "https://media-hosting.imagekit.io//5125671e10a24c3d/1000057002.mp4?Expires=1834201268&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zt2PXrojyGNaf5i1ao4fA4txeir-1sPGNpnFBXA7SxqMmLrcjZ51RPEFl4oCkW5wSlJsLUuL-XQohoZkd728VyIJZXsDT3GZEtSDWtS8CnuTeXztq1PVgUabXbGN-Cm7gW4u7lsDXv19PvLoPC2QDVj0ly4HT7f-6knrrWRvaB2ApkIu8dWXOI7IQ41fZ71D9-IkuJhvwBxVvFRFVFh1cfOY6i9DtsHmeLSrnwnZgMzUHyjGeA-VpPZmpOk~GNQXPTIOCkcib7wQLM0xUC-1wWBlnp3y0zFb6Dq9H~ViQWOr-Jz11tiAO0v~gH5IhieQ3VkTCNeyq3Ha~bRiN3YT5w__"
+    },
+    {
+      "name": "T Sports",
+      "logo": "https://i.ibb.co/215TRBGB/channels4-profile.jpg",
+      "url": "https://live.tsports.com/mobile_hls/tsports_live_1/Mirajliv.m3u8"
+    }
+  ]
+}

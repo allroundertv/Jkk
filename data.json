@@ -120,7 +120,11 @@
       "name": "T Sports",
       "logo": "https://i.ibb.co/215TRBGB/channels4-profile.jpg",
       "url": "https://live.tsports.com/mobile_hls/tsports_live_1/Mirajliv.m3u8"
-    }
+    }, 
+    {
+      "name": "Astro Cricket",
+      "logo": "https://i.ibb.co/n8Q0DP8w/IMG-20250219-204951-257.jpg",
+      "url": "https://allinonereborn.com/test.m3u8?id=18458"
+    },
   ]
 }
-
